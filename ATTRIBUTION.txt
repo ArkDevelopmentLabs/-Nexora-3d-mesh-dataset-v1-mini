@@ -10,23 +10,12 @@ GENERAL NOTICE
 All 3D meshes included in this dataset are sourced from creators and platforms
 that explicitly allow redistribution under open licenses.
 
-Licenses used:
-- Creative Commons Zero (CC0)
+Only assets licensed under the following Creative Commons licenses are included:
 - Creative Commons Attribution (CC-BY)
 
-CC0 assets are dedicated to the public domain.
-CC-BY assets require attribution, which is provided below.
 
---------------------------------------------------
-CC0 ASSETS (Public Domain)
---------------------------------------------------
-
-The following assets are licensed under Creative Commons Zero (CC0).
-Attribution is not required by the license, but sources are listed for transparency.
-
-Source Platforms:
-- Poly Haven (https://polyhaven.com/)
-- Other CC0-compliant sources with explicit public-domain dedication
+Assets licensed under Non-Commercial (NC) or No-Derivatives (ND) licenses
+are NOT included in this dataset.
 
 --------------------------------------------------
 CC-BY ASSETS (Attribution Required)
@@ -36,17 +25,262 @@ The following assets are licensed under Creative Commons Attribution (CC-BY).
 Attribution is required and preserved below.
 
 For each CC-BY asset, the following information is provided:
-- Asset name
+- Asset ID
 - Creator name
 - Source URL
 - License type
 
-Example format:
+ID: mesh_0001
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/1967-chevrolet-camaro-ss-350-c63097df8d39491583a5d734ecd65f2e
+License: CC-BY 
 
-Asset Name: Example Mesh
-Creator: Creator Name
-Source: https://example.com/mesh-link
-License: CC-BY 4.0
+ID: mesh_0002
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/1969-dodge-charger-rt-26e117cf4cdd436badef9e99632f309c
+License: CC-BY 
+
+ID: mesh_0003
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/2015-dodge-challenger-srt-hellcat-328ad57624a246bd92359dd694187457
+License: CC-BY 
+
+ID: mesh_0004
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/2018-chevrolet-colorado-zr2-09f6928f1b8741efabb5fc56a5d7d549
+License: CC-BY 
+
+ID: mesh_0005
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/2015-dodge-challenger-srt-hellcat-328ad57624a246bd92359dd694187457
+License: CC-BY
+
+ID: mesh_0006
+Creator: Draco120
+Source: https://sketchfab.com/3d-models/dinosaur-revolution-allosaurus-broken-jaw-87e9c0d97f2b45f9b0a9c0240cb90d6f
+License: CC-BY 
+
+ID: mesh_0007
+Creator: Draco120
+Source: https://sketchfab.com/3d-models/alien-vs-predator-2004-alien-drone-model-45d1c80887cb4c6fbb5a3712f9005fbc
+License: CC-BY 
+
+ID: mesh_0008
+Creator: U.SSCIFI
+Source: https://sketchfab.com/3d-models/alien-vs-predator-2010-marines-male-c56578fe08ac44909a71c9a831a32fab
+License: CC-BY 
+
+ID: mesh_0009
+Creator: U.SSCIFI
+Source: https://sketchfab.com/3d-models/call-of-duty-advance-warfare-gaz-tigr-5b8c4cba02b341439f2066ada2f926d7
+License: CC-BY 
+
+ID: mesh_0010
+Creator: jungle_jim
+Source: https://sketchfab.com/3d-models/alien-fish-animated-f7f672a642fe4734a889d9482a3d8144
+License: CC-BY 
+
+ID: mesh_0011
+Creator: jungle_jim
+Source: https://sketchfab.com/3d-models/dragon-skull-2-ba4939ca6aad41c18b6309757d9940bd
+License: CC-BY 
+
+ID: mesh_0012
+Creator: jungle_jim
+Source: https://sketchfab.com/3d-models/stylized-dragon-skull-0ff623c31586458abef515668f30e168
+License: CC-BY 
+
+ID: mesh_0013
+Creator: oscar3dmodel
+Source: https://sketchfab.com/3d-models/megurine-luka-aku-no-taizai9-200f8347dbc047c8b64a3b16214fb150
+License: CC-BY 
+
+ID: mesh_0014
+Creator: oscar3dmodel
+Source: https://sketchfab.com/3d-models/hestia-72f51ea10be641369993121afbf301aa
+License: CC-BY 
+
+ID: mesh_0015
+Creator: Djm_
+Source: https://sketchfab.com/3d-models/airpods-max-3400db28f6da41d08304ff20b29c3883
+License: CC-BY 
+
+ID: mesh_0016
+Creator: Sambit_Raut
+Source: https://sketchfab.com/3d-models/eotech-hws-exps-3-04d1452515134866b8a97c3e7cb9a18e
+License: CC-BY 
+
+ID: mesh_0017
+Creator: faridakbar2403
+Source: https://sketchfab.com/3d-models/airpods-mockup-e3a314db71b54cf98afaacbaf8a08088
+License: CC-BY 
+
+ID: mesh_0018
+Creator: faridakbar2403
+Source: https://sketchfab.com/3d-models/atom-pameran-3f7198fe374a4ef7b982164ccb1cee8c
+License: CC-BY 
+
+ID: mesh_0019
+Creator: andrey.
+Source: https://sketchfab.com/3d-models/pug-downloadable-fd5910b8d84746cb93d8720cdb3b87ba
+License: CC-BY 
+
+ID: mesh_0020
+Creator: andrey.
+Source: https://sketchfab.com/3d-models/edallion-the-wither-3-wild-hunt-4c3154ddc8ba49f2862f3313f4135465
+License: CC-BY 
+
+ID: mesh_0021
+Creator: andrey.
+Source: http://sketchfab.com/3d-models/game-model-downloadable-91ebbabf2756424da5e3c4daf106fa3e
+License: CC-BY 
+
+ID: mesh_0022
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/2014-bentley-continental-gt-v8-c4094bd0fea64777a7572f5384d9eedd
+License: CC-BY 
+
+ID: mesh_0023
+Creator: adrianaflak09
+Source: https://sketchfab.com/3d-models/2010-porsche-panamera-turbo-bf9186606d40493fb72274ff40f4269d
+License: CC-BY 
+
+ID: mesh_0024
+Creator: Professor_E12
+Source: https://sketchfab.com/3d-models/cassette-441008a01b254fdebcd5b78758b33cbd
+License: CC-BY 
+
+ID: mesh_0025
+Creator: amogusstrikesback2
+Source: https://sketchfab.com/3d-models/generator-babc108145524a45939eaad1293e21fb
+License: CC-BY 
+
+ID: mesh_0026
+Creator: xdanni1984x
+Source: https://sketchfab.com/3d-models/onlyacall-phone-card-recreation-1db93a574d524e8184dd755812b5b025
+License: CC-BY 
+
+ID: mesh_0027
+Creator: juliko_banditto
+Source: https://sketchfab.com/3d-models/motorola-v360-mobile-phone-0bc85df6571d4687af29c348ebd152cc
+License: CC-BY 
+
+ID: mesh_0028
+Creator: xdanni1984x
+Source: https://sketchfab.com/3d-models/tinky-winky-slendytubbies-e684eff4943e4d0d97b164beb60272ad
+License: CC-BY 
+
+ID: mesh_0029
+Creator: xdanni1984x
+Source: https://sketchfab.com/3d-models/tinky-winky-pc-0193629fec0447e8bcb0ce9dcd5d0b82
+License: CC-BY 
+
+ID: mesh_0030
+Creator: paraisoezau
+Source: https://sketchfab.com/3d-models/ghost-girl-v2-2dc9cc80283f4da281f72888be0215ef
+License: CC-BY 
+
+ID: mesh_0031
+Creator: tajiri
+Source: https://sketchfab.com/3d-models/japanese-style-christmas-cake-9b3e9f0c10ca4c959821b78a4139189e
+License: CC-BY 
+
+ID: mesh_0032
+Creator: FOXYSCA
+Source: https://sketchfab.com/3d-models/old-chair-54d8b5cacc1747e6bf3962455b581466
+License: CC-BY 
+
+ID: mesh_0033
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/pallet-d354ca916c224bc2a9778e2641286535
+License: CC-BY 
+
+
+ID: mesh_0034
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/sushi-low-poly-3aaa25fc0b4d487aa82659fd0c684372
+License: CC-BY 
+
+ID: mesh_0035
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/moon-3-topology-levels-633406ebb360447196c6ecc78169fa40
+License: CC-BY 
+
+ID: mesh_0036
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/industrial-robot-aeed681fe0a44f19aea00ba85db67faf
+License: CC-BY 
+
+ID: mesh_0037
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/ufo-151d500512684df29453a45ab0423d65
+License: CC-BY 
+
+ID: mesh_0038
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/snow-house-75665fd5b3ad42299843bd5b2f121bc8
+License: CC-BY 
+
+ID: mesh_0039
+Creator: alex-human
+Source: https://sketchfab.com/3d-models/set-of-15-low-polygon-trees-507d94d0437a4c8e9dbff98a03ad3459
+License: CC-BY 
+
+ID: mesh_0040
+Creator: polyone
+Source: https://sketchfab.com/3d-models/free-pack-tree-196525a9936a40c1ba7e74ce5c071d59
+License: CC-BY 
+
+ID: mesh_0041
+Creator: polyone
+Source: https://sketchfab.com/3d-models/free-pack-human-skeleton-950d0a46531f492ab8715777e312a5bf
+License: CC-BY 
+
+ID: mesh_0042
+Creator: polyone
+Source: https://sketchfab.com/3d-models/free-pack-female-base-mesh-9f531dd8102c4fb195e4310f21557c1a
+License: CC-BY 
+
+ID: mesh_0043
+Creator: polyone
+Source: https://sketchfab.com/3d-models/free-pack-rocks-stylized-7c60b4d1b8ab4187965f30c5e0212fc0
+License: CC-BY 
+
+ID: mesh_0044
+Creator: yukitsu-senpai
+Source: https://sketchfab.com/3d-models/another-3d-low-poly-iron-maiden-724522941b374218840482b84caf6290
+License: CC-BY 
+
+ID: mesh_0045
+Creator: yukitsu-senpai
+Source: https://sketchfab.com/3d-models/another-3d-low-poly-pillory-1d7bc8ae26da490e93f55be7419991d6#download
+License: CC-BY 
+
+ID: mesh_0046
+Creator: rendysix
+Source: https://sketchfab.com/3d-models/yakuza-reina-suit-remeshed-fb4aa540d9cf48cebc54f3140a8642c0
+License: CC-BY 
+
+ID: mesh_0047
+Creator: rendysix
+Source: https://sketchfab.com/3d-models/murder-drones-n-plushie-c08cca63627a483a99a4485469e4cf35
+License: CC-BY 
+
+ID: mesh_0048
+Creator: rendysix
+Source: https://sketchfab.com/3d-models/liberator-class-starfighter-astro-interceptor-89f517d382664def896d76a546be2c8d
+License: CC-BY 
+
+ID: mesh_0049
+Creator: AspectStudio
+Source: https://sketchfab.com/3d-models/lowpoly-snowman-5efb343f52564c909e1fa1cca1eb5a4f#download
+License: CC-BY 
+
+ID: mesh_0050
+Creator: AspectStudio
+Source: https://sketchfab.com/3d-models/lowpoly-cigarettes-w-ashtray-6d8f612fa2504f57b350b1a3d40db952
+License: CC-BY 
+
 
 --------------------------------------------------
 DATASET OWNERSHIP
