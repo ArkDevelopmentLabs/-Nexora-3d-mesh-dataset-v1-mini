@@ -57,13 +57,15 @@ This dataset is suitable for:
 
 ```
 nexora-3d-mesh-dataset-v1-mini/
-├─ models/
+├─ samples/
 │ ├─ mesh_0001.glb
 │ ├─ mesh_0002.glb
 │ └─ ...
-├─ previews/
+├─ images/
 │ ├─ mesh_0001.png
 │ └─ ...
+├─ mesh/
+│ └─ mesh.zip
 ├─ ATTRIBUTION.txt
 ├─ LICENSE
 └─ README.md
@@ -86,9 +88,8 @@ nexora-3d-mesh-dataset-v1-mini/
 Licensed under the **MIT License**.
 
 ### 3D Mesh Assets
-All 3D meshes included in this dataset are sourced from creators and platforms that allow redistribution under **Creative Commons (CC0 or CC-BY)** or equivalent open licenses.
+All 3D meshes included in this dataset are sourced from creators and platforms that allow redistribution under **Creative Commons (CC-BY)** or equivalent open licenses.
 
-- CC0 assets are in the public domain.
 - CC-BY assets retain attribution to their original creators.
 
 Full attribution details are provided in `ATTRIBUTION.txt`.
@@ -108,14 +109,14 @@ If you use this dataset in research, training, or publications, attribution is a
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("ArkAiLab-Adl/nexora-3d-mesh-dataset-v1-mini")
+dataset = load_dataset("ArkAiLab-Adl/Nexora-3d-mesh-dataset-v1-mini")
 print(dataset)
 ```
 
 ## Download
 
 **Hugging Face**
-https://huggingface.co/datasets/ArkAiLab-Adl/Nexora-3d-mesh-dataset-v1-mini
+https://huggingface.co/datasets/ArkAiLab-Adl/Nexora-3d-mesh-dataset-v1-mini/resolve/main/mesh/mesh.zip
 
 **GitHub**
 https://github.com/ArkDevelopmentLabs/Nexora-3d-mesh-dataset-v1-mini
